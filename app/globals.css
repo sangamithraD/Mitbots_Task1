@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
-html {
-  scroll-behavior: smooth;
+body {
+  background: #f5f5f5;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
+button {
+  transition: all 0.3s ease;
 }
